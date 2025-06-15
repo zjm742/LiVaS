@@ -2,7 +2,7 @@
 > Official implementation of the paper published at [Neurocomputing]  
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
-![License](https://img.shields.io/github/license/yourusername/your-repo)
+![License](https://img.shields.io/github/license/zjm742/LiVaS)
 
 
 ## 📌 Table of Contents  
@@ -38,8 +38,3 @@ pip install -r requirements.txt
    ```bash  
    bash run.sh  
    ```  
-
-
----  
-> Code for the paper "Enhancing Few-Shot Out-of-Distribution Intent Detection by Reducing Attention Misallocation"  
-> Repository maintained by [Your Name](https://github.com/yourusername)
