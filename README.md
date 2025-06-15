@@ -1,6 +1,3 @@
-Here's an English README template tailored for your academic paper's codebase:
-
-
 # **Enhancing Few-Shot Out-of-Distribution Intent Detection by Reducing Attention Misallocation**  
 > Official implementation of the paper published at [Neurocomputing]  
 
@@ -33,8 +30,8 @@ pip install -r requirements.txt
 ## 🚀 Quick Start  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/your-repo.git  
-   cd your-repo  
+   git clone https://github.com/zjm742/LiVaS.git 
+   cd LiVaS  
    ```  
 
 2. **Run the experiments**:  
